@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Update</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body class="center">
+
+<div class="card">
+<h2>Update User</h2>
+
+<form method="POST">
+    <input name="name" value="{{user.name}}" required>
+    <input name="email" value="{{user.email}}" required>
+
+    <select name="role">
+        <option value="admin">Admin</option>
+        <option value="teacher">Teacher</option>
+        <option value="student">Student</option>
+    </select>
+
+    <button>Update</button>
+</form>
+</div>
+
+</body>
+</html>
