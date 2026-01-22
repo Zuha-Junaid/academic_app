@@ -115,23 +115,19 @@ http://127.0.0.1:8000
 
 📸 Screenshots
 
-<img width="371" height="610" alt="Screenshot 2026-01-22 221613" src="https://github.com/user-attachments/assets/a4cb93ff-6181-4279-a528-06a7660a4c70" />
+<img width="371" height="610" alt="Screenshot 2026-01-22 221613" src="https://github.com/user-attachments/assets/1b4f5fcd-37c0-44df-8ca1-8ab70c14e93c" />
 
-<img width="1919" height="965" alt="Screenshot 2026-01-22 221845" src="https://github.com/user-attachments/assets/b975dec2-c3e8-438d-82a0-e372c7372502" />
+<img width="1919" height="967" alt="Screenshot 2026-01-22 221249" src="https://github.com/user-attachments/assets/e0bfc248-8b05-4e92-a24c-e4863298b8e4" />
 
-<img width="1919" height="967" alt="Screenshot 2026-01-22 221249" src="https://github.com/user-attachments/assets/54d8da7a-d318-41e1-8bf2-b0a3717e7420" />
+<img width="1918" height="967" alt="Screenshot 2026-01-22 221317" src="https://github.com/user-attachments/assets/6763c3e4-dbee-4959-90af-b189ba869b6f" />
 
-<img width="1918" height="967" alt="Screenshot 2026-01-22 221317" src="https://github.com/user-attachments/assets/f3f48b8a-0eb2-4d2e-996a-e42a1ee0b00f" />
+<img width="1917" height="968" alt="Screenshot 2026-01-22 221354" src="https://github.com/user-attachments/assets/8c544e06-ccdc-4ab1-9e7f-b2f2e4744b37" />
 
-<img width="1919" height="966" alt="Screenshot 2026-01-22 221757" src="https://github.com/user-attachments/assets/b9461490-70c3-4b54-a9c2-d42c8d031fbd" />
+<img width="1919" height="966" alt="Screenshot 2026-01-22 221757" src="https://github.com/user-attachments/assets/38f50bc9-fc73-4c84-b7c8-9609504eba35" />
 
-<img width="1917" height="968" alt="Screenshot 2026-01-22 221354" src="https://github.com/user-attachments/assets/32d98b92-ede1-40dd-8ee2-7d865168ff04" />
+<img width="1913" height="965" alt="Screenshot 2026-01-22 221221" src="https://github.com/user-attachments/assets/37959f70-f4fa-4c9e-a3a0-def42d6d09bc" />
 
-<img width="1919" height="966" alt="Screenshot 2026-01-22 221757" src="https://github.com/user-attachments/assets/5659f87b-9797-4521-955a-0d36f270db86" />
-
-![Uploading Screenshot 2026-01-22 221757.png…]()
-
-<img width="1913" height="965" alt="Screenshot 2026-01-22 221221" src="https://github.com/user-attachments/assets/29a7ed3f-5edb-482f-9157-f6b719f0f3cf" />
+<img width="1919" height="965" alt="Screenshot 2026-01-22 221845" src="https://github.com/user-attachments/assets/e50a3905-2be6-4b84-982f-fc4c3a17aa32" />
 
 🎓 Learning Outcomes
 
@@ -153,5 +149,6 @@ BS Software Engineering
 📜 License
 
 This project is for educational purposes only.
+
 
 
